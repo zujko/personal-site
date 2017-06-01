@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Peter Zujko"
-intro = "Developer • CS Student • Lover of French Bulldogs"
+intro = "Developer • CS Student • Aspiring French Bulldog Dad"
 description = "Junior Computer Science major at RIT."
 authorimage = "profile.jpg"
 dateformat = "Jan 2, 2006"
