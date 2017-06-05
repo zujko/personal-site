@@ -15,8 +15,8 @@ title = "Peter Zujko"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-#googleAnalytics = "XYZ"
+disqusShortname = "zujko" # Comment out to disable Disqus.
+googleAnalytics = "UA-90971126-2"
 enableRobotsTXT = true
 
 ## Site Settings
