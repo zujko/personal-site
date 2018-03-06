@@ -45,7 +45,7 @@ email = "peter@zujko.xyz"
 
 ## Extras
 [params.extra]
-copyright = "© 2017 Peter Zujko" 
+copyright = "© 2018 Peter Zujko" 
 poweredby = true
 hightlightjs = true
 
