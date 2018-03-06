@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://zujko.xyz" 
+baseurl = "http://zujko.xyz" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
