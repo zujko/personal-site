@@ -4,6 +4,7 @@ baseurl = "http://zujko.xyz"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
+categories = [] 
 
 contentdir = "content"
 layoutdir = "layouts"
