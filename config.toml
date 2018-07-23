@@ -4,7 +4,6 @@ baseurl = "http://zujko.xyz"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
-categories = [] 
 
 contentdir = "content"
 layoutdir = "layouts"
@@ -27,6 +26,7 @@ intro = "Developer • CS Student"
 description = "Computer Science major at RIT."
 authorimage = "profile.jpg"
 dateformat = "Jan 2, 2006"
+categories = []
 
 ## Site Meta Settings
 [params.meta]
