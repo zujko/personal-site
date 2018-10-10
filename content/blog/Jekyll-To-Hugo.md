@@ -34,7 +34,6 @@ If you're interested in what these directories are for take a look at the quicks
 I decided to modify a theme called [goa](https://github.com/shenoybr/hugo-goa).
 
 Hugo doesn't come with a default theme, therefore you need to import one into the themes directory. So, simply clone the theme into the directory.
-```git clone https://github.com/shenoybr/hugo-goa.git themes```
 
 You then need to setup your config file. Hugo themes usually have an example config in a directory named ```exampleSite```, so just copy that to the root of your project, in my case ```cp themes/hugo-goa/exampleSite/config.toml .```
 
